@@ -1,0 +1,13 @@
+C:\Work\edu\C#\TextReview\bin\Debug\netcoreapp3.1\TextReview.exe
+C:\Work\edu\C#\TextReview\bin\Debug\netcoreapp3.1\TextReview.deps.json
+C:\Work\edu\C#\TextReview\bin\Debug\netcoreapp3.1\TextReview.runtimeconfig.json
+C:\Work\edu\C#\TextReview\bin\Debug\netcoreapp3.1\TextReview.runtimeconfig.dev.json
+C:\Work\edu\C#\TextReview\bin\Debug\netcoreapp3.1\TextReview.dll
+C:\Work\edu\C#\TextReview\bin\Debug\netcoreapp3.1\TextReview.pdb
+C:\Work\edu\C#\TextReview\obj\Debug\netcoreapp3.1\TextReview.csprojAssemblyReference.cache
+C:\Work\edu\C#\TextReview\obj\Debug\netcoreapp3.1\TextReview.AssemblyInfoInputs.cache
+C:\Work\edu\C#\TextReview\obj\Debug\netcoreapp3.1\TextReview.AssemblyInfo.cs
+C:\Work\edu\C#\TextReview\obj\Debug\netcoreapp3.1\TextReview.csproj.CoreCompileInputs.cache
+C:\Work\edu\C#\TextReview\obj\Debug\netcoreapp3.1\TextReview.dll
+C:\Work\edu\C#\TextReview\obj\Debug\netcoreapp3.1\TextReview.pdb
+C:\Work\edu\C#\TextReview\obj\Debug\netcoreapp3.1\TextReview.genruntimeconfig.cache

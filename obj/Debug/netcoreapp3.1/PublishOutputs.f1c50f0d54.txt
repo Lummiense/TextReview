@@ -1,0 +1,5 @@
+C:\Work\edu\C#\TextReview\bin\Debug\netcoreapp3.1\publish\TextReview.exe
+C:\Work\edu\C#\TextReview\bin\Debug\netcoreapp3.1\publish\TextReview.dll
+C:\Work\edu\C#\TextReview\bin\Debug\netcoreapp3.1\publish\TextReview.deps.json
+C:\Work\edu\C#\TextReview\bin\Debug\netcoreapp3.1\publish\TextReview.runtimeconfig.json
+C:\Work\edu\C#\TextReview\bin\Debug\netcoreapp3.1\publish\TextReview.pdb
